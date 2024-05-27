@@ -5,7 +5,7 @@ export default function StudentInfo() {
         <div>
             <h1 className="flex min-h-screen flex-col items-center justify-between p-24">Gil Eugenio</h1>
             <Link href="https://vercel.com/guillermo-eugenios-projects/cprg306-assignments">
-                <h2>Github</h2>
+                Github
             </Link>
 
         </div>
