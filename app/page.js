@@ -1,4 +1,4 @@
-import Image from "next/image";
+import image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -12,6 +12,8 @@ export default function Home() {
       <Link href="./week-4">week 4</Link>
       <Link href="./week-5">week 5</Link>
       <Link href="./week-6">week 6</Link>
+      <Link href="./week-8">week 8</Link>
+
     </main>
   );
 }
